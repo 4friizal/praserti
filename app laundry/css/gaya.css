@@ -1,0 +1,23 @@
+.center{
+	text-align: center;
+}
+
+.oval{
+	border-radius: 30px;
+}
+
+.masuk{
+	margin-top: 20vh;
+}
+.latar_login{
+	color: white;
+	background-image: linear-gradient(rgb(7, 7, 7), rgb(42, 46, 163));
+}.latar_konten{
+	background-color: white;
+}
+
+.text{
+	color: white;
+}
+
+.size-me
